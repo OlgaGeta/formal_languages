@@ -1,5 +1,7 @@
 # Запуск
 
+[Инструкция]((https://evogeek.ru/articles/27474/)) для установки и сборки проекта. 
+
 Установка ANTLR:
 > ```bash
 >$ cd /usr/local/lib
