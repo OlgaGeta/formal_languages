@@ -21,7 +21,7 @@
 
 3. Генерация файлов (уже есть в папке gen)
 ```bash
->$ antlr4 -Dlanguage=Python3 MyGrammer.g4 -visitor -o dist
+>$ antlr4 -Dlanguage=Python3 Grammatica.g4 -visitor -o gen
 ```
 
 4. Запуск
